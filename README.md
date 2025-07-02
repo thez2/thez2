@@ -1,4 +1,3 @@
-<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
@@ -132,4 +131,3 @@ Hey! I'm a passionate developer who believes in building things that matter. Cur
   <br><br>
   <img src="https://visitcount.itsvg.in/api?id=thez2&icon=0&color=6" alt="Profile Views" />
 </div>
--->
